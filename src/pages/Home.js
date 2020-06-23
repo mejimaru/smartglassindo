@@ -11,6 +11,8 @@ import { API } from '../config/api'
     { id: 170, name: "Berlin", country_name: "Germany" }
 
     ini gw tulis
+
+    tambah lagi
 ]
  */
 class Home extends Component {
