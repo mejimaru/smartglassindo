@@ -15,7 +15,7 @@ class App extends Component{
         <Navbar />
         <Route path="/" exact component={Home}></Route>
         <Route path="/product/:product_id" component={Product}></Route>
-        <Route path="/restaurant/:restaurant_id" component={ProDetail}></Route>
+        <Route path="/foodparadise/restaurant/:restaurant_id" component={ProDetail}></Route>
         <Footer />
       </React.Fragment>
       </Router>
