@@ -160,7 +160,7 @@ class Product extends Component {
         } else {
           return (
             <div className="col">
-              <p>No Data available. Please select criteria, and click Search</p>
+              <p>No Data cuy. Please select criteria, and click Search</p>
             </div>
           )
         }
