@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/foodparadise/static/css/main.9f59252a.chunk.css",
-    "main.js": "/foodparadise/static/js/main.ba2425c4.chunk.js",
-    "main.js.map": "/foodparadise/static/js/main.ba2425c4.chunk.js.map",
-    "runtime-main.js": "/foodparadise/static/js/runtime-main.9dbb7ab2.js",
-    "runtime-main.js.map": "/foodparadise/static/js/runtime-main.9dbb7ab2.js.map",
-    "static/js/2.7e4ad8ba.chunk.js": "/foodparadise/static/js/2.7e4ad8ba.chunk.js",
-    "static/js/2.7e4ad8ba.chunk.js.map": "/foodparadise/static/js/2.7e4ad8ba.chunk.js.map",
-    "index.html": "/foodparadise/index.html",
-    "precache-manifest.13b09c2482cefbad98929fa7bedb40e7.js": "/foodparadise/precache-manifest.13b09c2482cefbad98929fa7bedb40e7.js",
-    "service-worker.js": "/foodparadise/service-worker.js",
-    "static/css/main.9f59252a.chunk.css.map": "/foodparadise/static/css/main.9f59252a.chunk.css.map",
-    "static/js/2.7e4ad8ba.chunk.js.LICENSE.txt": "/foodparadise/static/js/2.7e4ad8ba.chunk.js.LICENSE.txt",
-    "static/media/aneka-kaca1.jpg": "/foodparadise/static/media/aneka-kaca1.d447d5e2.jpg"
+    "main.css": "/smartglassindo/static/css/main.9f59252a.chunk.css",
+    "main.js": "/smartglassindo/static/js/main.5da9d77d.chunk.js",
+    "main.js.map": "/smartglassindo/static/js/main.5da9d77d.chunk.js.map",
+    "runtime-main.js": "/smartglassindo/static/js/runtime-main.33151f13.js",
+    "runtime-main.js.map": "/smartglassindo/static/js/runtime-main.33151f13.js.map",
+    "static/js/2.e5f14294.chunk.js": "/smartglassindo/static/js/2.e5f14294.chunk.js",
+    "static/js/2.e5f14294.chunk.js.map": "/smartglassindo/static/js/2.e5f14294.chunk.js.map",
+    "index.html": "/smartglassindo/index.html",
+    "precache-manifest.1a7ef528ef9866ec3a745568349295d5.js": "/smartglassindo/precache-manifest.1a7ef528ef9866ec3a745568349295d5.js",
+    "service-worker.js": "/smartglassindo/service-worker.js",
+    "static/css/main.9f59252a.chunk.css.map": "/smartglassindo/static/css/main.9f59252a.chunk.css.map",
+    "static/js/2.e5f14294.chunk.js.LICENSE.txt": "/smartglassindo/static/js/2.e5f14294.chunk.js.LICENSE.txt",
+    "static/media/aneka-kaca1.jpg": "/smartglassindo/static/media/aneka-kaca1.d447d5e2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9dbb7ab2.js",
-    "static/js/2.7e4ad8ba.chunk.js",
+    "static/js/runtime-main.33151f13.js",
+    "static/js/2.e5f14294.chunk.js",
     "static/css/main.9f59252a.chunk.css",
-    "static/js/main.ba2425c4.chunk.js"
+    "static/js/main.5da9d77d.chunk.js"
   ]
 }
