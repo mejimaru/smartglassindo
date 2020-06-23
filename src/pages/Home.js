@@ -9,6 +9,8 @@ import { API } from '../config/api'
     { id: 72, name: "Jakarta", country_name: "Indonesia" },
     { id: 11052, name: "Beijing", country_name: "China" },
     { id: 170, name: "Berlin", country_name: "Germany" }
+
+    ini gw tulis
 ]
  */
 class Home extends Component {
