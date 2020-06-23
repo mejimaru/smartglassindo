@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smartglassindo/static/css/main.9f59252a.chunk.css",
+    "main.js": "/smartglassindo/static/js/main.02e7eb4e.chunk.js",
+    "main.js.map": "/smartglassindo/static/js/main.02e7eb4e.chunk.js.map",
+    "runtime-main.js": "/smartglassindo/static/js/runtime-main.33151f13.js",
+    "runtime-main.js.map": "/smartglassindo/static/js/runtime-main.33151f13.js.map",
+    "static/js/2.e5f14294.chunk.js": "/smartglassindo/static/js/2.e5f14294.chunk.js",
+    "static/js/2.e5f14294.chunk.js.map": "/smartglassindo/static/js/2.e5f14294.chunk.js.map",
+    "index.html": "/smartglassindo/index.html",
+    "precache-manifest.7bf6ed2a63503f067380138fec089f47.js": "/smartglassindo/precache-manifest.7bf6ed2a63503f067380138fec089f47.js",
+    "service-worker.js": "/smartglassindo/service-worker.js",
+    "static/css/main.9f59252a.chunk.css.map": "/smartglassindo/static/css/main.9f59252a.chunk.css.map",
+    "static/js/2.e5f14294.chunk.js.LICENSE.txt": "/smartglassindo/static/js/2.e5f14294.chunk.js.LICENSE.txt",
+    "static/media/aneka-kaca1.jpg": "/smartglassindo/static/media/aneka-kaca1.d447d5e2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33151f13.js",
+    "static/js/2.e5f14294.chunk.js",
+    "static/css/main.9f59252a.chunk.css",
+    "static/js/main.02e7eb4e.chunk.js"
+  ]
+}
