@@ -6,10 +6,10 @@ const ProCard = (props) => (
 
     <div className="col-6" style={{ marginBottom: 20 }}>
         <div className="card">
-            <div className="card-header">
-                <div className="row" style={{display: 'flex', flexWrap:"wrap"}}>
+            <div className="card-header" style={{msWordBreak: "break-all"}}>
+                <div className="row" >
                     <div className="col-3">
-                        <img className="img-responsive" src={props.restaurant.thumb} alt="" style={{ borderRadius: 5, width: 100 }} ></img>
+                        <img className="img-responsive" src={props.restaurant.thumb} alt="" style={{ borderRadius: 5, width: 100 , wordWrap}} ></img>
                     </div>
                     <div className="col-9">
                         <h4 className="text-success" style={{ fontWeight: 800, wordWrap:"break-word"}} >{props.restaurant.name}</h4>

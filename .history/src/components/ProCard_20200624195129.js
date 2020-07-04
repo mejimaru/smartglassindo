@@ -6,8 +6,8 @@ const ProCard = (props) => (
 
     <div className="col-6" style={{ marginBottom: 20 }}>
         <div className="card">
-            <div className="card-header">
-                <div className="row" style={{display: 'flex', flexWrap:"wrap"}}>
+            <div className="card-header" style={{display: "flex", flex: 1 1 }}>
+                <div className="row" >
                     <div className="col-3">
                         <img className="img-responsive" src={props.restaurant.thumb} alt="" style={{ borderRadius: 5, width: 100 }} ></img>
                     </div>
